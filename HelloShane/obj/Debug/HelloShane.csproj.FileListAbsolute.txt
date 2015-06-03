@@ -1,0 +1,6 @@
+C:\Projects\HelloShane\HelloShane\bin\Debug\HelloShane.exe.config
+C:\Projects\HelloShane\HelloShane\bin\Debug\HelloShane.exe
+C:\Projects\HelloShane\HelloShane\bin\Debug\HelloShane.pdb
+C:\Projects\HelloShane\HelloShane\obj\Debug\HelloShane.csprojResolveAssemblyReference.cache
+C:\Projects\HelloShane\HelloShane\obj\Debug\HelloShane.exe
+C:\Projects\HelloShane\HelloShane\obj\Debug\HelloShane.pdb
